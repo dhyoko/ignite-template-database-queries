@@ -22,6 +22,9 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
   Feito com 💜 by Rocketseat
 </p>
 
+## Desafio 2
+
+![image](https://github.com/dhyoko/ignite-template-database-queries/assets/42620936/d01bcf93-9cbc-4ca5-a5f0-e219d17fbd48)
 
 <!--START_SECTION:footer-->
 
